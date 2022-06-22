@@ -17,8 +17,8 @@ to add files:
 5. git add filename - To add file to local git repository 
 6. git add . - To add multiple files to local git repository
 7. git commit -am "added new files to repository" - This will commit all the changes made to files to local repository
-8. git push origin main - To push the changes to remote repository
-9  git pull origin main - To pull the changes from remote repository 
+8. git push origin main/master - To push the changes to remote repository
+9  git pull origin main/master - To pull the changes from remote repository 
 10. git clone - will fetch your remote repo to your local folder
 11. git checkout -b feature/branchname - to create a new branch
 12. git branch
