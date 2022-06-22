@@ -13,6 +13,7 @@ Git Commands to push the code to remote repository
 2. git remote add origin https://github.com/vjaideep08/HTML5-and-CSS3-22-06-2022.git - Connect your local repository to remote repository
 3. git status - To check the status of the files to see if they are created /modified
 4. git diff - to see the changes made to the files
+to add files:
 5. git add filename - To add file to local git repository 
 6. git add . - To add multiple files to local git repository
 7. git commit -am "added new files to repository" - This will commit all the changes made to files to local repository
